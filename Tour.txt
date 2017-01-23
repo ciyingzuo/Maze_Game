@@ -1,0 +1,13 @@
+Quic Tour
+
+w - move up
+a - move left
+s - move bottom
+d - move right
+
+t - display/hidden the path, default is hidden
+
+b - breathfirst search
+d - depthfirst search
+
+n - start new game
